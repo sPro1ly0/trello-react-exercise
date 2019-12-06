@@ -1,8 +1,8 @@
-import React, {Component} from 'react';
-import List from './composition/List';
+import React, {Component} from 'react'; //what is this??
+import List from './List';
 import './App.css';
 
-class App extends Component {
+class App extends Component { //what??
   static defaultProps = {
     store: {
       lists: [],

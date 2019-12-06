@@ -1,3 +1,4 @@
+//if there is an object just put it with export default
 export default {
   lists: [
     {
