@@ -1,9 +1,10 @@
 import React from 'react';
+import TrelloStore from './store';
 
 function App() {
   return (
     <main className='App'>
-      {/* content goes here */}
+      <TrelloStore />
     </main>
   );
 }
