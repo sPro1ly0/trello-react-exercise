@@ -42,7 +42,7 @@ const STORE = {
 
 function TrelloStore() {
     return (
-        console.log({STORE})
+        STORE
     )
 };
 
